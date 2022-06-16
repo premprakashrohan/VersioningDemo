@@ -15,6 +15,9 @@
 		<archtype.encoding>${encoding}</archtype.encoding>
 	</properties>
 	<scm>
-	
+		<connection>scm:git:git@github.com:premprakashrohan/VersioningDemo.git</connection>
+		<developerConnection>scm:git:git@github.com:premprakashrohan/VersioningDemo.git</developerConnection>
+		<url>https://github.com/premprakashrohan/VersioningDemo</url>
+		<tag>0.1</tag>
 	</scm>
 </project>

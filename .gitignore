@@ -1,0 +1,9 @@
+
+target/classes/META-INF/maven/maven.test/VersioningDemo/pom.xml
+target/classes/META-INF/maven/maven.test/VersioningDemo/pom.properties
+target/classes/META-INF/MANIFEST.MF
+.settings/org.eclipse.m2e.core.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.core.resources.prefs
+.project
+.classpath
